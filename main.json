@@ -1,6 +1,17 @@
 {
   "Movies": [
     {
+      "Title": "Έτερος Εγώ",
+      "ImageBack": "https://www.nou-pou.gr/wp-content/uploads/2021/02/eteros_egw.jpg",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/el/4/4c/Eteros_Ego.jpg",
+      "Video": "https://www.mediafire.com/file/lbpil1se757f0jl/video.mp4/file",
+      "Description": "Ένας δικηγόρος, ένας δικαστής, ένας γιατρός, ένας οδηγός και ο συνεπιβάτης ενός πολυτελούς αυτοκινήτου δολοφονούνται. Ο Δημήτρης Λαΐνης, βοηθός καθηγητή εγκληματολογίας, αναλαμβάνει να λύσει το μυστήριο που κρύβεται πίσω από́ τους πέντε φόνους, οι οποίοι συνδέονται μεταξύ τους ξεκάθαρα και βίαια. Αναπάντεχοι σύμμαχοι του Λαΐνη στο να ξεμπλέξει το πολύπλοκο και επικίνδυνο αυτό κουβάρι, η θεωρία του Πυθαγόρα κι ένας καθηγητής μαθηματικών. Θα καταφέρει να λύσει το μυστήριο και να αποκαλύψει την αλήθεια;",
+      "Year": "2016",
+      "Genre": "Μυστήριο, Έγκλημα",
+      "Duration": "1 ωρ. 41 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Χαλβάη 5-0",
       "ImageBack": "https://www.topontiki.gr/wp-content/uploads/2020/11/xalvai-5-0.jpg",
       "ImageMain": "https://www.music.net.cy/wp-content/uploads/2020/03/POS_1080x1080.jpg",
