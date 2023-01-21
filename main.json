@@ -26,12 +26,17 @@
       "Title": "Χαλβάη 5-0",
       "ImageBack": "https://www.topontiki.gr/wp-content/uploads/2020/11/xalvai-5-0.jpg",
       "ImageMain": "https://www.music.net.cy/wp-content/uploads/2020/03/POS_1080x1080.jpg",
-      "Video": "https://www.mediafire.com/file/80sbqgwqfw00e39/video.mp4/file",
+      "Video": "https://voe.sx/5hlho1kxzv1m",
       "Description": "Ο ανατρεπτικός Μάρκος Σεφερλής παρουσιάζει την πρώτη του ταινία “Χαλβάη 5-0” συνεχίζοντας την κωμική παράδοση που έχει δημιουργήσει τόσο στο Θέατρο όσο και στην τηλεόραση. Σε σκηνοθεσία του Mάνου Καμπίτη και σενάριο του Μάρκου Σεφερλή, η ταινία τοποθετεί στον πυρήνα της μία ιστορία μυστηρίου για να δοκιμάσει εκ νέου, μέσα από απρόοπτα και ακραία γνώριμες καταστάσεις, τη δομή της σύγχρονης κωμωδίας.",
       "Year": "2019",
       "Genre": "Κωμωδία, Μυστήριο",
       "Duration": "1ώρ. 59λ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": "8",
+      "End": "0"
     }
   ]
 }
