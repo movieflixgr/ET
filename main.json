@@ -16,7 +16,9 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0    },
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
     {
       "Title": "Έτερος Εγώ",
       "ImageBack": "https://www.nou-pou.gr/wp-content/uploads/2021/02/eteros_egw.jpg",
@@ -33,7 +35,9 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0    },
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
     {
       "Title": "Χαλβάη 5-0",
       "ImageBack": "https://www.topontiki.gr/wp-content/uploads/2020/11/xalvai-5-0.jpg",
@@ -50,7 +54,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": "8",
-      "End": "0"
+      "End": "0",
+      "Fetch": "Voe"
     }
   ]
 }
