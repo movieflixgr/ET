@@ -11,12 +11,12 @@
       "Duration": "27 λεπ.",
       "isUnlocked": true,
       "fetchVideo": true,
-      "beforeEnd": 0,
+      "beforeEnd": "0",
       "Type": "m3u8",
       "StartString": "'hls': '",
       "EndString": "',",
-      "Start": 8,
-      "End": 0
+      "Start": "8",
+      "End": "0",
       "Fetch": "Voe"
     },
     {
