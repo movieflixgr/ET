@@ -1,6 +1,25 @@
 {
   "Movies": [
     {
+      "Title": "Ο Άνθρωπος του Θεού",
+      "ImageBack": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-07-27/o%20antropos%20tou%20theou%20%281%29_0.jpg?itok=PNxWd7Jr",
+      "ImageMain": "https://www.athinorama.gr/lmnts/events/cinema/10072125/Poster.jpg",
+      "Video": "https://www.mediafire.com/file_premium/gqimxpacrxsheda/video/file",
+      "Description": "Η δημοτικότητα του Αγίου Νεκτάριου Μητροπολίτη Πενταπόλεως προκαλεί τη ζήλια των κληρικών στην Αλεξάνδρεια. Από φόβο ότι θα γίνει ο επόμενος Πατριάρχης Αιγύπτου, μέρος του κλήρου τον δυσφημίζει με αποτέλεσμα να εκδιωχθεί από την Αίγυπτο. Στην Αθήνα πια, χάρη στην εξελιγμένη παιδαγωγική του τακτική, γίνεται ξακουστός και κοσμαγάπητος, και την ίδια εποχή επιδίδεται σε σπουδαίο συγγραφικό έργο. Ο φόρτος εργασίας όμως τον καταπονεί, και αποφασίζει να αποσυρθεί στην Αίγινα, όπου ξαναχτίζει ένα ερειπωμένο μοναστήρι με τα ίδια του τα χέρια, το οποίο χάρη στη φήμη του μεγαλώνει. Η μονή όμως δεν αναγνωρίζεται ποτέ, ενώ ο Άγιος Νεκτάριος κατηγορείται άδικα για ανηθικότητα. Στο Αρεταίειο νοσοκομείο, λίγο πριν το τέλος του, θα κάνει το τελευταίο του θαύμα.",
+      "Year": "2021",
+      "Genre": "Βιογραφία, Δραματική",
+      "Duration": "1ώρ. 49λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
+    {
       "Title": "Η Ρουτίνα",
       "ImageBack": "https://greek-movies.com/icon/movie/%CE%97%CF%81%CE%BF%CF%85%CF%84%CE%AF%CE%BD%CE%B12015.jpg",
       "ImageMain": "https://greek-movies.com/icon/movie/%CE%97%CF%81%CE%BF%CF%85%CF%84%CE%AF%CE%BD%CE%B12015.jpg",
