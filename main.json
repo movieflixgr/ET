@@ -1,6 +1,25 @@
 {
   "Movies": [
     {
+      "Title": "Λούφα και Παραλλαγή: Σειρήνες στη Στεριά",
+      "ImageBack": "https://media-flix-gr.s3.amazonaws.com/assets/images/2011/10/20/1319058816.jpg",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/el/thumb/e/e6/%CE%9B%CE%BF%CF%8D%CF%86%CE%B1_%CE%BA%CE%B1%CE%B9_%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE_%CE%A3%CE%B5%CE%B9%CF%81%CE%AE%CE%BD%CE%B5%CF%82_%CF%83%CF%84%CE%B7_%CF%83%CF%84%CE%B5%CF%81%CE%B9%CE%AC_%28%CE%B1%CF%86%CE%AF%CF%83%CE%B1_2011%29.jpg/300px-%CE%9B%CE%BF%CF%8D%CF%86%CE%B1_%CE%BA%CE%B1%CE%B9_%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE_%CE%A3%CE%B5%CE%B9%CF%81%CE%AE%CE%BD%CE%B5%CF%82_%CF%83%CF%84%CE%B7_%CF%83%CF%84%CE%B5%CF%81%CE%B9%CE%AC_%28%CE%B1%CF%86%CE%AF%CF%83%CE%B1_2011%29.jpg",
+      "Video": "https://www.mediafire.com/file_premium/tbjx5zqzebrw2pf/video/file",
+      "Description": "Ο Σταυρακομαθιακάκης, μετά τη μυστηριώδη απαγωγή της προστατευόμενης του 12χρονης ορφανής πακιστανής Noori, εγκαταλείπει τον Ψηλορείτη και ακολουθώντας τα ίχνη της εισβάλει εν μέσω κρίσης στην πρωτεύουσα. Εκεί, ο Παρλαβάντζας κι ο σεφ του, Παπαδάκης, αγωνίζονται να περισώσουν την αλυσίδα ανατολίτικων ταχυφαγείων Sevdali. Ο χακεράς και Ρομπέν των Ραφιών, Νάκος, προσπαθεί να αφυπνίσει το περί δικαίου αίσθημα των συμπολιτών του, ενώ ο νεοεκλεγείς δημοτικός σύμβουλος Καλούρης αγωνίζεται να αναβαθμίσει την αισθητική της πόλης. Τέλος, ο περιζήτητος γκουρού Τζιμπιτζίδης πασχίζει να ανεβάσει την αυτοεκτίμηση των οπαδών του και του υπουργικού συμβουλίου, μέλος του οποίου είναι η “πρώην” του και νυν υφυπουργός Μαριαλένα.",
+      "Year": "2011",
+      "Genre": "Κωμωδία",
+      "Duration": "1ώρ. 41λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
+    {
       "Title": "Ι-4 Άι Φορ: Λούφα & Απαλλαγή",
       "ImageBack": "https://www.lifo.gr/sites/default/files/styles/lifo_standard_normal/public/movies/2020/i-4-lufa-ke-apallagi-4_0.jpg?h=6bd6c20f&itok=8k9pS7E9",
       "ImageMain": "https://www.filmy.gr/wp-content/uploads/2019/09/Loafing-and-Camouflage-I-4.jpg",
